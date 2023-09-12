@@ -1,6 +1,6 @@
 {
     "name": "jeffreyvanrossum/wp-simple-encryption",
-    "description": "Packge to allow for simple string encryption and decryption.",
+    "description": "Package to allow for simple string encryption and decryption.",
     "license": "MIT",
     "authors": [
         {
