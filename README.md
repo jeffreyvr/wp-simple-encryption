@@ -1,3 +1,11 @@
+<p align="center"><a href="https://vanrossum.dev" target="_blank"><img src="https://raw.githubusercontent.com/jeffreyvr/vanrossum.dev-art/main/logo.svg" width="320" alt="vanrossum.dev Logo"></a></p>
+
+<p align="center">
+<a href="https://packagist.org/packages/jeffreyvanrossum/wp-simple-encryption"><img src="https://img.shields.io/packagist/dt/jeffreyvanrossum/wp-simple-encryption" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/jeffreyvanrossum/wp-simple-encryption"><img src="https://img.shields.io/packagist/v/jeffreyvanrossum/wp-simple-encryption" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/jeffreyvanrossum/wp-simple-encryption"><img src="https://img.shields.io/packagist/l/jeffreyvanrossum/wp-simple-encryption" alt="License"></a>
+</p>
+
 # WP Simple Encryption
 
 A simple package to encrypt and decrypt strings in WordPress.
